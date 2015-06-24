@@ -15,7 +15,7 @@ import com.csc.xmlgen.util.HttpPostUsingClient;
 import com.csc.xmlgen.util.XmlUtility;
 
 public class BillingNotifyAyncRequestDispatcher {
-	//private static final int MYTHREADS = 30;
+	//private static final int MYTHREADS = 50;
 	HttpPost httppost;
 	HttpPostUsingClient httpPostUsingClient;
 	String directory;
